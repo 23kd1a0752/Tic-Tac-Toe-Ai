@@ -14,3 +14,4 @@ Interactive Tic-Tac-Toe AI game built with HTML, CSS, and JavaScript.
 - HTML5
 - CSS3
 - JavaScript
+https://23kd1a0752.github.io/Tic-Tac-Toe-Ai/
